@@ -1,0 +1,9 @@
+{
+  "name": "sandwichtime",
+  "version": "0.0.1",
+  "description": "Make ordering a Jimmy John's sandwich even faster",
+  "main": "index.js",
+  "repository": "https://github.com/newsomderek/sandwichtime.git",
+  "author": "newsomderek <newsom.derek@gmail.com>",
+  "license": "MIT"
+}
